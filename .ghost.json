@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://headless-horseman.ghost.io",
+    "contentApiKey": "b840934a10b0c2b7c6636bc843"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://headless-horseman.ghost.io",
+    "contentApiKey": "b840934a10b0c2b7c6636bc843"
   }
 }
